@@ -1,5 +1,3 @@
-0x1E-search_algorithms/skiplist/create_skiplist.c
-
 #include <stdlib.h>
 #include <math.h>
 #include "../search_algos.h"
